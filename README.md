@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">FDFZ/FDIS 2021 → HKU B25 BEng</h3>
 
-- 📫 How to reach me **qinchonghanzuibang@gmail.com**
+- 📫 How to reach me **qinchonghanzuibang@gmail.com/qinch@connect.hku.hk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
