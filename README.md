@@ -5,6 +5,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+<img align="right" alt="coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
+  
 <a href="https://instagram.com/qch_isthebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qch_isthebest" height="30" width="40" /></a>
 </p>
 
