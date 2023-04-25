@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
 <h3 align="center">FDFZ/FDIS 2021 → HKU B25 BEng</h3>
 
-- 📫 How to reach me **qinchonghanzuibang@gmail.com/qinch@connect.hku.hk**
+### How to reach me
+#### 🔞 Steam: **https://steamcommunity.com/profiles/76561198433215905/**
+- **ELDEN RING**
+#### 🎮 Switch: **SW-3542-3364-2428**
+- **THE LEGEND OF ZELDA**
+#### 📫 Email: **qinchonghanzuibang@gmail.com or qinch@connect.hku.hk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
 <img align="right" alt="coding" width="200" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
-  
+
 <a href="https://instagram.com/qch_isthebest" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="qch_isthebest" height="30" width="40" /></a>
 </p>
 
