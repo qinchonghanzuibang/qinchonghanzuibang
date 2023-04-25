@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jonathan👋</h1>
-<h3 align="center">FDFZ/FDIS 2021 → HKU B25 BEng</h3>
+<h3 align="center">FDFZ/FDIS 2022 → HKU B25 BEng</h3>
 
 ## How to reach me
 <img align="right" alt="coding" width="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/06f21a161921919.63cd7887d0a70.gif">
