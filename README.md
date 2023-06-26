@@ -26,5 +26,7 @@
 
 <p align="center" style="font-size: 26px;"><strong><em>🐍 Hope the snake grows up quickly</em></strong></p>
 
+---
+
 ![snake gif](https://github.com/qinchonghanzuibang/qinchonghanzuibang/blob/output/github-contribution-grid-snake.gif)
 
