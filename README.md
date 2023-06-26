@@ -1,3 +1,5 @@
+***Please wait a few seconds for the animation to load.***
+
 <p align="center">
   <img src="https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif" alt="Hi, I'm Qin Chong Han 👋 You can call me Jonathan 💤 FDFZ/FDIS 2022 → HKU B25 BEng 🚀">
 </p>
