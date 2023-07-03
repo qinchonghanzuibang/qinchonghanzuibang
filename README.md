@@ -3,6 +3,24 @@
 <p align="center">
   <img src="https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif" alt="Hi, I'm Qin Chong Han 👋 You can call me Jonathan 💤 FDFZ/FDIS 2022 → HKU B25 BEng 🚀">
 </p>
+<p align="center">
+  <img id="myGif" src="https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif" alt="Hi, I'm Qin Chong Han 👋 You can call me Jonathan 💤 FDFZ/FDIS 2022 → HKU B25 BEng 🚀">
+</p>
+
+<p align="center">
+  <button onclick="toggleGif()">Toggle GIF</button>
+</p>
+
+<script>
+  function toggleGif() {
+    var gif = document.getElementById("myGif");
+    if (gif.style.display === "none") {
+      gif.style.display = "block";
+    } else {
+      gif.style.display = "none";
+    }
+  }
+</script>
 <!--
 
 <h1 align="center">Hi, I'm Jonathan👋</h1>
