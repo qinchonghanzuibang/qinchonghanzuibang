@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif" alt="Hi, I'm Qin Chong Han 👋 You can call me Jonathan 💤 FDFZ/FDIS 2022 → HKU B25 BEng 🚀">
 </p>
+<<<<<<< HEAD
 
 <p align="center">
   <button onclick="toggleGif()">Toggle GIF</button>
@@ -21,6 +22,13 @@
 <p align="center">
   <button onclick="toggleGif()">Toggle GIF</button>
 </p>
+=======
+<!--
+
+<h1 align="center">Hi, I'm Jonathan👋</h1>
+<h3 align="center">FDFZ/FDIS 2022 → HKU B25 BEng</h3>
+-->
+>>>>>>> parent of c54c3b1 (Update README.md)
 
 <div id="gifContainer" align="center">
   <img id="gif" src="https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif" alt="Hi, I'm Qin Chong Han 👋 You can call me Jonathan 💤 FDFZ/FDIS 2022 → HKU B25 BEng 🚀">
