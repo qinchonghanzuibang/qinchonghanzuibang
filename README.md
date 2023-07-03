@@ -3,20 +3,6 @@
 <p align="center">
   <img src="https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif" alt="Hi, I'm Qin Chong Han 👋 You can call me Jonathan 💤 FDFZ/FDIS 2022 → HKU B25 BEng 🚀">
 </p>
-
-<p align="center">
-  <button onclick="toggleGif()">Toggle GIF</button>
-</p>
-<div id="gifContainer" align="center">
-  <img id="gif" src="https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif" alt="Hi, I'm Qin Chong Han 👋 You can call me Jonathan 💤 FDFZ/FDIS 2022 → HKU B25 BEng 🚀">
-</div>
-
-<script src="./src/toggle.js"></script>
-
-
-
-
-
 <h1 align="center">Hi, I'm Jonathan👋</h1>
 <h3 align="center">FDFZ/FDIS 2022 → HKU B25 BEng</h3>
 
