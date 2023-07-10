@@ -2,7 +2,7 @@
 
 <details>
   <summary><code>BAZINGA</code>:</summary>
-  <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation"
+  <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation">
 </details>
 
 <h1 align="center">Hi, I'm Jonathan👋</h1>
