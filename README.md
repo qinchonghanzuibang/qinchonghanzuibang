@@ -10,9 +10,8 @@
 </p>
 
 
-<p align="center">
-    <span style="font-size: 36px; font-weight: bold;">Hi, I'm Jonathan👋</span> <span style="font-size: 20px; font-weight: bold;">(FDFZ/FDIS 22' &rarr; HKU 26' BEng)</span>
-</p>
+<span style="font-size:36px;font-weight:bold;">This text is large and bold</span><span style="font-size:20px;font-weight:bold;">This text is small and bold</span>
+
 
 
 ## 😰 How to reach me
