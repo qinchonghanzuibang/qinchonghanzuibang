@@ -5,7 +5,7 @@
   <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation">
 </details>
 <h1 align="center">Hi, I'm Jonathan👋</h1>
-<h3 align="center">FDFZ/FDIS 22' → HKU 26'</h3>
+<h4 align="center">FDFZ/FDIS 22' → HKU 26'</h4>
 
 
 ## 😰 How to reach me
