@@ -1,15 +1,9 @@
 ***Please wait a few seconds for the animation to load.***
-<details>
-  <summary><code>material</code>: Carefully designed to have a soft contrast</summary>
-This is a secret
-</details>
 
 <details>
-	<summary><code>BAZINGA</summary>
-<p align="center">
-  <img src="https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif" alt="Hi, I'm Qin Chong Han 👋 You can call me Jonathan 💤 FDFZ/FDIS 2022 → HKU B25 BEng 🚀">
-</p>
-<details>
+  <summary><code>BAZINGA</code>:</summary>
+  <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation"
+</details>
 
 <h1 align="center">Hi, I'm Jonathan👋</h1>
 <h3 align="center">FDFZ/FDIS 2022 → HKU B25 BEng</h3>
