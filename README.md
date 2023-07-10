@@ -4,14 +4,8 @@
   <summary><code>BAZINGA</code>:</summary>
   <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation">
 </details>
-
-<p align="center">
-    <b style="font-size: 36px;">Hi, I'm Jonathan👋</b> <b style="font-size: 20px;">(FDFZ/FDIS 22' &rarr; HKU 26' BEng)</b>
-</p>
-
-
-<span style="font-size:36px;font-weight:bold;">This text is large and bold</span><span style="font-size:20px;font-weight:bold;">This text is small and bold</span>
-
+<h1 align="center">Hi, I'm Jonathan👋</h1>
+<h3 align="center">FDFZ/FDIS 2022 → HKU B25 BEng</h3>
 
 
 ## 😰 How to reach me
