@@ -9,6 +9,12 @@
     <b style="font-size: 36px;">Hi, I'm Jonathan👋</b> <b style="font-size: 20px;">(FDFZ/FDIS 22' &rarr; HKU 26' BEng)</b>
 </p>
 
+
+<p align="center">
+    <span style="font-size: 36px; font-weight: bold;">Hi, I'm Jonathan👋</span> <span style="font-size: 20px; font-weight: bold;">(FDFZ/FDIS 22' &rarr; HKU 26' BEng)</span>
+</p>
+
+
 ## 😰 How to reach me
 
 #### 🔞 Steam: **https://steamcommunity.com/profiles/76561198433215905/**
