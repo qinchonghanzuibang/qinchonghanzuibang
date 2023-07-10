@@ -1,5 +1,7 @@
 ***Please wait a few seconds for the animation to load.***
 
+<html>
+<body>
 <details>
   <summary><code>BAZINGA</code>:</summary>
   <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation">
@@ -11,7 +13,8 @@
    	</span>
    </center>
 </p>
-
+</body>
+</html>
 
 ## 😰 How to reach me
 
