@@ -1,3 +1,8 @@
+***Please wait a few seconds for the animation to load.***
+<details>
+  <summary><code>material</code>: Carefully designed to have a soft contrast</summary>
+This is a secret
+</details>
 
 <details>
 	<summary><code>BAZINGA</summary>
