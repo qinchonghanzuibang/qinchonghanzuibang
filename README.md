@@ -5,7 +5,7 @@
   <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation">
 </details>
 
- <p>
+<p>
    <center>
    	<span style="font-size: 36px; font-weight: bold;">Hi, I'm Jonathan👋</span> <span style="font-size: 20px; font-weight: bold">(FDFZ/FDIS 22' &rarr; HKU 26' BEng)
    	</span>
