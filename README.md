@@ -1,20 +1,15 @@
 ***Please wait a few seconds for the animation to load.***
 
-<html>
-<body>
 <details>
   <summary><code>BAZINGA</code>:</summary>
   <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation">
 </details>
 
-<p>
-   <center>
-   	<span style="font-size: 36px; font-weight: bold;">Hi, I'm Jonathan👋</span> <span style="font-size: 20px; font-weight: bold">(FDFZ/FDIS 22' &rarr; HKU 26' BEng)
-   	</span>
-   </center>
-</p>
-</body>
-</html>
+<div align="center">
+    <p>
+        <span style="font-size: 36px; font-weight: bold;">Hi, I'm Jonathan👋</span> <span style="font-size: 20px; font-weight: bold">(FDFZ/FDIS 22' &rarr; HKU 26' BEng)</span>
+    </p>
+</div>
 
 ## 😰 How to reach me
 
