@@ -30,7 +30,7 @@ Out of **interests:** ![Markdown](https://img.shields.io/badge/markdown-%2300000
 <div align="left">
   <h2>🐍 Snake eating my contribution</h2>
   <h6>
-    There is currently some bugs about this animation
+    There is currently something wrong about this animation.
   </h6>
   <br>
   <img alt="snake eating my contribution" src="https://github.com/qinchonghanzuibang/qinchonghanzuibang/blob/output/github-contribution-grid-snake.svg">
