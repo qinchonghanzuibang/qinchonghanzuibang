@@ -26,3 +26,6 @@ Learned from **HKU (ENGG1330, ENGG1340):** ![C](https://img.shields.io/badge/c-%
 Currently learning at **UC, Berkeley (CS61bl, CS70):** ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 Out of **interests:** ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![snake gif](https://github.com/qinchonghanzuibang/qinchonghanzuibang/blob/output/github-contribution-grid-snake.gif)
+
