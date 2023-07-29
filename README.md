@@ -1,7 +1,7 @@
 ***Please wait a few seconds for the animation to load.***
 
 <details>
-  <summary><code>BAZINGA</code>:</summary>
+  <summary><h3><code>BAZINGA</code></h3></summary>
   <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation">
 </details>
 <h1 align="center">Hi, I'm Jonathan👋</h1>
