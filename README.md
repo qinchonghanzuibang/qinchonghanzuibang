@@ -4,8 +4,6 @@
   <summary><h3><code>BAZINGA</code></h3></summary>
   <img src = "https://github.com/qinchonghanzuibang/qinchonghanzuibang/raw/main/assets/hello.gif", alt="Profile animation">
 </details>
-<h1 align="center">Hi, I'm Jonathan👋</h1>
-<h3 align="center">FDFZ/FDIS 22' → HKU 26'</h3>
 
 
 ## 😰 How to reach me
